@@ -6,7 +6,7 @@ public class App {
         // Initialize and display Book & Person instances
         // Simulate borrowing a book
         // Simulate returning a book
-
+        System.out.println("hej");
     }
 
 }
